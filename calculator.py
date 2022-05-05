@@ -8,5 +8,3 @@ def multiply(a, b):
 def devide_free(a, b):
     #free function
     return a/b
-def square(a):
-    return a*anext
